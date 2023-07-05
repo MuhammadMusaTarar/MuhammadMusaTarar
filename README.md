@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MuhammadMusaTarar
 - ✨ Android Developer
-- 👀 I’m interested in CSS
-- 👀 I’m interested in JavaScript
+- 👀 JavaScript | CSS
 - 🌱 I’m currently learning React
 - 📫 musatarar0@gmail.com
