@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi, I’m @MuhammadMusaTarar<br>✨ Android Developer<br>👀 JavaScript | CSS<br>🌱 I’m currently learning React<br>📫 musatarar0@gmail.com
+ Hi, I’m @MuhammadMusaTarar<br>✨ Android Developer<br>👀 JavaScript | CSS<br>🌱 React.js <br>📫 musatarar0@gmail.com
 
 
 ## 🌐 Socials:
