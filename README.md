@@ -11,4 +11,5 @@ Hello! I'm a passionate Full Stack Developer currently working on an innovative 
 ---
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMusaTarar&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+<br>
 [![](https://visitcount.itsvg.in/api?id=MuhammadMusaTarar&icon=0&color=12)](https://visitcount.itsvg.in)
